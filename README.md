@@ -1,11 +1,11 @@
 Licencia y Términos de Uso
 
-© {Mi nombre}, www.unsch.edu.pe
+© Robert Pillaca, www.unsch.edu.pe
 , Ingeniería de Sistemas
 
 Todos los derechos reservados.
 
-Este repositorio y todo su contenido están protegidos por derechos de autor de {Mi nombre} y asociados con UNSCH y Ingeniería de Sistemas.
+Este repositorio y todo su contenido están protegidos por derechos de autor de Robert Pillaca y asociados con UNSCH y Ingeniería de Sistemas.
 
 ✅ Uso Permitido
 
